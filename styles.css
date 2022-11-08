@@ -1,0 +1,38 @@
+html{
+    color: aliceblue;
+    background-color: black;    
+}
+.titulo{
+    font-size: 32px;
+    padding: 20px;
+    margin: 12px;  
+    border: solid;
+    border-width: 2px;
+    border-color: aliceblue;
+    color: purple;  
+}
+
+span{
+    font-size: 26px;
+    background-color: purple;       
+}
+
+body{
+    border: solid;
+    border-width: 3px;
+    margin: 10px;
+    padding: 100px;
+    font-size: 18px;  
+}
+.Sub{
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+ol{
+    color: purple;
+    margin: 3px;
+    padding: 20px;
+    border: solid;
+    border-color: aliceblue;
+}
